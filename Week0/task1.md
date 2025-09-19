@@ -39,7 +39,7 @@
    - **Tape-out**: The final GDSII file is sent to the foundry for fabrication.  
    - **Tape-in**: The fabricated silicon chip returns from the foundry for testing and deployment.
 
-8. **Target Applications**  
+8. **Target Applications of VSD's processor**  
    - The designed processor runs at **100 MHz – 130 MHz**.  
    - Targeted for products like **Arduino boards, smartwatches (iWatch), TV panels, and AC applications**.
 
