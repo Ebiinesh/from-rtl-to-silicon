@@ -1,10 +1,10 @@
 # Week 0 Summary
 
-## Task 1: GitHub Repo Creation and Documentation
+## [Task 1](./Week0/task1.md): GitHub Repo Creation and Documentation
 - Created a GitHub repository.
 - Documented the summary of the first video.
 
-## Task 2: Tools Installation and Updates
+## [Task ](./Week0/task2.md): Tools Installation and Updates
 - Installed all required tools on the machine as per the documented configuration.
 - Uploaded screenshots of installed tools to the repo.
 - Documented installation steps and verification snapshots.
