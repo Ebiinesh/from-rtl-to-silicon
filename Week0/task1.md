@@ -1,6 +1,6 @@
 # Week 0 – Chip Design Flow Summary
 
-### Summary of Chip Design Flow
+### Summary of Chip Design Flow (From the uploaded Video)
 
 1. **Specification & Application (O0, O1 stage)**  
    - The process begins by specifying the application in **C language** (compiled using GCC, in this case RISC-V GCC).  
