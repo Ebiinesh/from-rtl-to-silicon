@@ -42,4 +42,4 @@ $ sudo apt-get install iverilog
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
-![Alt Text](Images/gtkwave.png)
+![Alt Text](images/gtkwave.png)
