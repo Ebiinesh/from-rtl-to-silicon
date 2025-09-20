@@ -44,5 +44,5 @@
    - Targeted for products like **Arduino boards, smartwatches (iWatch), TV panels, and AC applications**.
 
 **Final Goal:**  
-At every stage, the outputs must match: **O1 = O2 = O3 = O4**. This ensures the silicon chip behaves exactly as specified in the original C model.
+At every stage, the outputs must match: **O1 == O2 == O3 == O4**. This ensures the silicon chip behaves exactly as specified in the original C model.
 
