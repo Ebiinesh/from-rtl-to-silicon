@@ -44,7 +44,7 @@ $ sudo apt install gtkwave
 ```
 ![Alt Text](images/gtkwave.png)
 
-#### <ins>**NGspce**</ins>
+#### <ins>**NGspice**</ins>
 ```bash
 After downloading the tarball from https://sourceforge.net/projects/ngspice/files/ to a local
 directory, unpack it using:
