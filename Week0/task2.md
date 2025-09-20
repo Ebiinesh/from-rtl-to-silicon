@@ -44,7 +44,7 @@ $ sudo apt install gtkwave
 ```
 ![Alt Text](images/gtkwave.png)
 
-#### <ins>**ngspce**</ins>
+#### <ins>**NGspce**</ins>
 ```bash
 After downloading the tarball from https://sourceforge.net/projects/ngspice/files/ to a local
 directory, unpack it using:
@@ -58,7 +58,7 @@ $ sudo make install
 ```
 ![Alt Text](images/ngspice.png)
 
-#### <ins>**magic**</ins>
+#### <ins>**Magic VLSI**</ins>
 ```bash
 $ sudo apt-get install m4
 $ sudo apt-get install tcsh
@@ -75,3 +75,53 @@ make
 sudo make install
 ```
 ![Alt Text](images/magic.png)
+
+## **Check Tool Versions**
+
+```bash
+# Check versions of essential tools
+$ git --version
+$ docker --version
+$ python3 --version
+$ python3 -m pip --version
+$ make --version
+```
+
+<p align="center">
+  <img src="images/version.png" 
+       alt="Tool Version" width="600"/>
+</p>
+
+<div align="center">
+  ✅ <b>All Tool Versions Verified</b>
+</div>
+
+<div align="center">
+
+## 🎉 **Installation Summary**
+
+| Tool | Status | Primary Use |
+|------|--------|-------------|
+| 🧠 **Yosys** | ✅ Complete | RTL Synthesis |
+| 📟 **Iverilog** | ✅ Complete | Verilog Simulation |
+| 📊 **GTKWave** | ✅ Complete | Waveform Analysis |
+| ⚡ **NGSpice** | ✅ Complete | Circuit Simulation |
+| 🎨 **Magic VLSI** | ✅ Complete | Layout Design |
+| 🛠️ **Tool Versions** | ✅ Verified | Environment Check |
+
+### 🚀 **Environment Ready for VLSI Design Journey!**
+
+</div>
+
+---
+
+<div align="center">
+
+**📂 Repository:** [from rlt to silicon](https://github.com/Ebiinesh/from-rtl-to-silicon) 
+**👨‍💻 Author:** [Ebinesh K](https://github.com/Ebiinesh))
+**📚 Program:** VLSI System Design (VSD)
+
+[![Follow](https://img.shields.io/github/followers/Senbagaseelan18?style=social)](https://github.com/Senbagaseelan18)
+[![Stars](https://img.shields.io/github/stars/Senbagaseelan18/SenbagaseelanV_RISC-V_SOC_TAPEOUT_VSD?style=social)](https://github.com/Senbagaseelan18/SenbagaseelanV_RISC-V_SOC_TAPEOUT_VSD)
+
+</div>
