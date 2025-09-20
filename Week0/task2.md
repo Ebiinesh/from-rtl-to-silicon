@@ -121,7 +121,5 @@ $ make --version
 **👨‍💻 Author:** [Ebinesh K](https://github.com/Ebiinesh))
 **📚 Program:** VLSI System Design (VSD)
 
-[![Follow](https://img.shields.io/github/followers/Senbagaseelan18?style=social)](https://github.com/Senbagaseelan18)
-[![Stars](https://img.shields.io/github/stars/Senbagaseelan18/SenbagaseelanV_RISC-V_SOC_TAPEOUT_VSD?style=social)](https://github.com/Senbagaseelan18/SenbagaseelanV_RISC-V_SOC_TAPEOUT_VSD)
 
 </div>
